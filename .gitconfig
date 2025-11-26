@@ -30,7 +30,7 @@
 	cm = commit -m
   	cp = cherry-pick
   	amend = commit --amend --no-edit
-	unstage = restore --staged
+	unadd = restore --staged
   	diffst = diff --staged
 	ba = branch -a
 	bd = branch -D
