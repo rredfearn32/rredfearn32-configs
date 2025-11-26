@@ -39,3 +39,4 @@
 	unaa = restore --staged .
 	reword = commit --amend
 	ap = add -p
+	bl = branch
