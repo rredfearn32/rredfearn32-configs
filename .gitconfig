@@ -40,3 +40,4 @@
 	reword = commit --amend
 	ap = add -p
 	bl = branch
+	undo = reset --mixed HEAD~1
