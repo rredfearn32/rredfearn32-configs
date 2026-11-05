@@ -41,3 +41,7 @@
 	ap = add -p
 	bl = branch
 	undo = reset --mixed HEAD~1
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
