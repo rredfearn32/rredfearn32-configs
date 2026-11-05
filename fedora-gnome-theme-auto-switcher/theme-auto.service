@@ -1,0 +1,6 @@
+[Unit]
+Description=Set GNOME light/dark mode based on sunrise/sunset
+
+[Service]
+Type=oneshot
+ExecStart=%h/.local/bin/theme_auto.py

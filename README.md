@@ -10,3 +10,4 @@ A repo to hold all my transferable configs.
 ## Configs added so far
 
 - Git 
+- Fedora Linux Gnome Dark/Light Theme Auto-Switcher
