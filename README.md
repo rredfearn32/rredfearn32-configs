@@ -11,3 +11,4 @@ A repo to hold all my transferable configs.
 
 - Git 
 - Fedora Linux Gnome Dark/Light Theme Auto-Switcher
+- VSCodium settings and keybindings

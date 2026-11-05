@@ -1,0 +1,10 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Dark Modern",
+    "redhat.telemetry.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "chat.agent.enabled": false
+}
