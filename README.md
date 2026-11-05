@@ -1,20 +1,11 @@
 # Robbie's Configs
 
-A repo to hold all my transferable configs. The main branch holds the general configs for my personal use, while branches contain environment-specific configs.
+A repo to hold all my transferable configs.
 
 ## Getting started
 
-1. Clone this repo anywhere on your system
-2. Create a symlink of each config file here to the location they need to be
-
-## Example
-
-```
-cd ~
-git clone <this-repo>
-rm .gitconfig
-ln -s <this-repo>/.gitconfig .
-```
+1. Clone this repo anywhere on your system, normally in the user root under "Configs" or something similar.
+2. Follow the config-specific README files.
 
 ## Configs added so far
 
